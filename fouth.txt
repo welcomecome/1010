@@ -1,0 +1,8 @@
+XXX
+2
+3
+c
+d
+Hello C world!!!
+We are the world!!!XXX234567890
+abcDefghijklmnopqrsyuvwxyz
